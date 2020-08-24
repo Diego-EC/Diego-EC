@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-HTML5 + CSS3 + JavaScript = Dieg-EC
+let Dieg-EC = HTML5 + CSS3 + JavaScript;
 
 <!--
 **Diego-EC/Diego-EC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
