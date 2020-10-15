@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```
-let Diego-EC = HTML5 + CSS + JavaScript + Bootstrap + React;
+let Diego-EC = HTML5 + CSS + JavaScript + Bootstrap + React + Python;
 ```
 
 <!--
